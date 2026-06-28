@@ -1,0 +1,18 @@
+# IDE
+.idea/
+.vscode/
+
+# Backend
+backend/node_modules/
+backend/target/
+
+# Frontend
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+
+# Environment
+.env
+
+# Logs
+*.log
